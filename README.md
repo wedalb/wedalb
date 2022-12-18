@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wedalb
-- 👀 I’m interested in art, programming, IT, science
-- 🌱 I’m currently studying @ TUM
+- 👋 Hi, I’m Heidi Albarazi
+- 👀 I’m interested in art, programming, IT, science 
+- 🌱 I’m currently studying at TUM university
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: here and find my profile on g.dev/wedalb
 
